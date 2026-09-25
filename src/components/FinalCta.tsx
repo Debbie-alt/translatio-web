@@ -18,7 +18,7 @@ export function FinalCta() {
                 today.
               </h2>
               <p className="mx-auto mt-6 max-w-xl text-lg leading-relaxed text-soft">
-                Add Translatio to your project in under a minute and let your
+                Add Translatekit to your project in under a minute and let your
                 users read your product in the language they think in.
               </p>
 

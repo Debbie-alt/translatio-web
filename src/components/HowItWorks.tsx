@@ -12,7 +12,7 @@ const STEPS = [
     num: "02",
     command: "configure({ provider, apiKey })",
     title: "Configure",
-    body: "Point Translatio at your translation provider once at startup. Type-safe, validated, done.",
+    body: "Point Translatekit at your translation provider once at startup. Type-safe, validated, done.",
   },
   {
     num: "03",
@@ -30,7 +30,7 @@ export function HowItWorks() {
     >
       <div className="mx-auto max-w-6xl px-5 sm:px-8">
         <SectionHeading
-          eyebrow="How Translatio works"
+          eyebrow="How Translatekit works"
           title={
             <>
               From install to ship in{" "}
@@ -40,7 +40,7 @@ export function HowItWorks() {
               .
             </>
           }
-          description="Translatio stays out of your architecture. There is no CLI to wire in, no build step to adopt — just code that reads like documentation."
+          description="Translatekit stays out of your architecture. There is no CLI to wire in, no build step to adopt — just code that reads like documentation."
         />
 
         <div className="mt-16 grid gap-5 md:grid-cols-3">

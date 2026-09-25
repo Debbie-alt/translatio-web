@@ -49,7 +49,7 @@ export function ApiSection() {
                 it can translate.
               </>
             }
-            description="Configure once, then translate wherever you need it — a server route, a cron job, a client. Translatio never asks you to restructure your app."
+            description="Configure once, then translate wherever you need it — a server route, a cron job, a client. Translatekit never asks you to restructure your app."
           />
 
           <ul className="mt-8 space-y-4">

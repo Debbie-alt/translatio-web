@@ -47,7 +47,7 @@ export function Languages() {
                 , automatically.
               </h2>
               <p className="mt-5 max-w-md text-lg leading-relaxed text-soft">
-                Translatio ships with automatic source detection and a fast,
+                Translatekit ships with automatic source detection and a fast,
                 provider-backed translation path. Your app never needs to tell
                 it what language the input is in.
               </p>

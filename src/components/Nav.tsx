@@ -43,7 +43,7 @@ export function Nav() {
               href="https://github.com/Debbie-alt/auto-translate"
               target="_blank"
               rel="noreferrer"
-              aria-label="Translatio on GitHub"
+              aria-label="Translatekit on GitHub"
               className="hidden text-subtle transition-colors hover:text-ink sm:block"
             >
             <GithubIcon />

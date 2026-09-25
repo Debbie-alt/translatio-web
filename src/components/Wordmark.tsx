@@ -3,7 +3,7 @@ export function Wordmark({ className = "" }: { className?: string }) {
     <a
       href="#top"
       className={`group inline-flex items-center gap-2.5 ${className}`}
-      aria-label="Translatio home"
+      aria-label="Translatekit home"
     >
       <svg
         width="26"
@@ -31,7 +31,7 @@ export function Wordmark({ className = "" }: { className?: string }) {
         <circle cx="24.5" cy="23.5" r="2" fill="var(--color-lavender)" />
       </svg>
       <span className="text-[17px] font-medium tracking-[-0.01em] text-ink">
-        Translatio
+        Translatekit
       </span>
     </a>
   );

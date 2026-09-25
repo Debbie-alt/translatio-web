@@ -62,7 +62,7 @@ export function Footer() {
 
         <div className="mt-14 flex flex-col items-start justify-between gap-3 border-t border-line pt-6 sm:flex-row sm:items-center">
           <p className="text-[13px] text-faint">
-            © 2026 Translatio. MIT Licensed.
+            © 2026 Translatekit. MIT Licensed.
           </p>
           <p className="font-mono text-[12px] text-faint">
             <span className="text-accent">es</span>

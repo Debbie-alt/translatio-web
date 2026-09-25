@@ -61,7 +61,7 @@ export function Hero() {
           <motion.div variants={item}>
             <span className="inline-flex items-center gap-2 rounded-full border border-line bg-raise px-3.5 py-1.5 text-[13px] tracking-wide text-soft">
               <span className="h-1.5 w-1.5 rounded-full bg-accent" />
-              Translatio 0.1 — translation toolkit for developers
+              Translatekit 0.1 — translation toolkit for developers
             </span>
           </motion.div>
 

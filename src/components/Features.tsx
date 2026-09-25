@@ -72,7 +72,7 @@ export function Features() {
     <section id="features" className="border-t border-line py-24 sm:py-32">
       <div className="mx-auto max-w-6xl px-5 sm:px-8">
         <SectionHeading
-          eyebrow="Why Translatio"
+          eyebrow="Why Translatekit"
           title={
             <>
               Small by design.{" "}

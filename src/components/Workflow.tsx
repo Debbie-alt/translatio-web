@@ -42,7 +42,7 @@ export function Workflow() {
               .
             </>
           }
-          description="Install, configure, translate, ship. Translatio never forces a process on you — the terminal is the whole story."
+          description="Install, configure, translate, ship. Translatekit never forces a process on you — the terminal is the whole story."
         />
 
         <div className="mt-14 grid grid-cols-2 gap-3 sm:grid-cols-4">
